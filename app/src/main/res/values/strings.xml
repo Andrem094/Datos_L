@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Datos_L</string>
+    <string name="clase">CLASE</string>
+    <string name="Descripción_p">DESCRIPCIÓN PRODUCTO</string>
+    <string name="Presentación">PRESENTACIÓN</string>
+    <string name="Acerca_de">ACERCA DE</string>
+</resources>

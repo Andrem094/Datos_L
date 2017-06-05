@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datos_L</string>
+    <string name="clase">CLASS</string>
+    <string name="Descripción_p">PRODUCT DESCRIPTION</string>
+    <string name="Presentación">PRESENTATION</string>
+    <string name="Acerca_de">ABOUT</string>
+</resources>

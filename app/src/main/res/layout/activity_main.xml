@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="andrea.datos_l.MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_light"
+        android:onClick="acercade"
+        android:text="@string/Acerca_de"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="465dp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id='@+id/recyclerView'
+        android:layout_width="match_parent"
+        android:layout_height="398dp"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:layout_weight="1.18" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:background="@android:color/holo_red_light"
+        android:orientation="horizontal"></LinearLayout>
+
+</LinearLayout>
